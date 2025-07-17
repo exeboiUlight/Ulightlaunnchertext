@@ -1,3 +1,3 @@
 # Ulight Engine Version
-Current Version: 2.2.2
-Release Name: Ulight game engine 2D
+Current Version: 2.2.3
+Release Name: Ulight game engine component update
